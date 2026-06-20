@@ -1,5 +1,5 @@
-````markdown
-# English | 中文（待补充）
+
+# English 
 
 # Personal & Business Unified Budget Framework
 ### Separate personal and business money without losing the ability to make integrated financial decisions.
@@ -463,5 +463,4 @@ This project is licensed under the **Apache License 2.0**.
 
 You are free to use, modify, and distribute this work under the terms of the Apache License 2.0. See the `LICENSE` file for details.
 
-```
-```
+
