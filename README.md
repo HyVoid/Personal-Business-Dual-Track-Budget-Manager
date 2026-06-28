@@ -1,6 +1,3 @@
-
-# English 
-
 # Personal & Business Unified Budget Framework
 ### Separate personal and business money without losing the ability to make integrated financial decisions.
 
