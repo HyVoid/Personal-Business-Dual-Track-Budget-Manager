@@ -22,7 +22,8 @@
 **Browser Version**  
 A lightweight interface for capturing transactions, reviewing weekly exceptions, and monitoring cash health from any device.
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 10, 2026, 10_24_04 AM" src="https://github.com/user-attachments/assets/ce5e2a0a-3c94-4e75-bec8-d909e611f20a" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 10, 2026, 10_39_39 AM" src="https://github.com/user-attachments/assets/e763465f-bfe9-4903-8732-4e628460c606" />
+
 
 **Excel Version**  
 The complete operating workbook with categorization logic, budget controls, reconciliation workflows, and financial pulse indicators.
