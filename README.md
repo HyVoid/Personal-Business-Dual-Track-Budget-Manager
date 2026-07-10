@@ -16,12 +16,13 @@
 
 ## Screenshots
 
-<!-- screenshot: browser version -->
+<img width="1667" height="954" alt="image" src="https://github.com/user-attachments/assets/36fd77eb-f4f3-44ce-a676-89ffc4bcc7a0" />
+
 
 **Browser Version**  
 A lightweight interface for capturing transactions, reviewing weekly exceptions, and monitoring cash health from any device.
 
-<!-- screenshot: excel version -->
+<img width="1536" height="1024" alt="ChatGPT Image Jul 10, 2026, 10_24_04 AM" src="https://github.com/user-attachments/assets/ce5e2a0a-3c94-4e75-bec8-d909e611f20a" />
 
 **Excel Version**  
 The complete operating workbook with categorization logic, budget controls, reconciliation workflows, and financial pulse indicators.
