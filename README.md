@@ -9,8 +9,8 @@
 
 > **No signup. No installation. Free.**
 >
-> 🌐 Open in Browser → *HTML live demo link*  
-> 📥 Download Excel → *Release or Gumroad link*
+> 🌐 Open in Browser → https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager  
+> 📥 Download Excel → https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager/blob/main/Personal%20%26%20Business%20Unified%20Budget%20Framework.xlsx
 
 ---
 
@@ -47,7 +47,7 @@ Most small businesses and solo operators do not fail because they lack transacti
 
 They fail because they cannot interpret those records correctly.
 
-Personal expenses leak into business accounts. Business profits appear larger than reality because owner withdrawals are ignored. Lifestyle inflation hides inside dozens of small transactions. Decisions get made using balances instead of understanding what those balances actually represent.
+Personal expenses leak into business accounts. Business profits appear larger than reality because owner withdrawals are ignored. Lifestyle inflation hides inside dozens of small transactions. Dec[...]
 
 The most common response is either doing nothing or adopting accounting systems that feel too heavy for daily use.
 
@@ -148,7 +148,7 @@ The question behind each tool is simple:
 
 > What information needs to exist in one place to support the next decision confidently?
 
-This framework applies that philosophy to personal and business finances. Rather than replacing accounting systems, it helps reveal the information required to operate responsibly between major decisions.
+This framework applies that philosophy to personal and business finances. Rather than replacing accounting systems, it helps reveal the information required to operate responsibly between major d[...]
 
 ---
 
@@ -461,5 +461,4 @@ Gumroad Store: *Store link*
 This project is licensed under the **Apache License 2.0**.
 
 You are free to use, modify, and distribute this work under the terms of the Apache License 2.0. See the `LICENSE` file for details.
-
 
