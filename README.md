@@ -14,22 +14,6 @@
 
 ---
 
-## Screenshots
-
-<img width="1667" height="954" alt="image" src="https://github.com/user-attachments/assets/36fd77eb-f4f3-44ce-a676-89ffc4bcc7a0" />
-
-
-**Browser Version**  
-A lightweight interface for capturing transactions, reviewing weekly exceptions, and monitoring cash health from any device.
-
-<img width="1672" height="941" alt="ChatGPT Image Jul 10, 2026, 10_39_39 AM" src="https://github.com/user-attachments/assets/e763465f-bfe9-4903-8732-4e628460c606" />
-
-
-**Excel Version**  
-The complete operating workbook with categorization logic, budget controls, reconciliation workflows, and financial pulse indicators.
-
----
-
 ## What It Helps You Track
 
 - Personal spending versus business operating costs without mixing the two.
