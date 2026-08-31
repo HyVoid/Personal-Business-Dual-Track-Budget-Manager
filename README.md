@@ -9,7 +9,7 @@
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
+Try the browser version for free. If you need the Excel version, you can buy it with a 30-day, no-questions-asked money-back guarantee.
 >
 > 🌐 Open in Browser → [HTML Live Demo](https://hyvoid.github.io/Personal-Business-Dual-Track-Budget-Manager/)  
 > 📥 Download Excel → https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager/blob/main/Personal%20%26%20Business%20Unified%20Budget%20Framework.xlsx
