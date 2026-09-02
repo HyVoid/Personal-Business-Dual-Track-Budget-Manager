@@ -438,7 +438,7 @@ Balance
 * **Project Financial Pulse Tracker** — Surface delivery risk through lightweight operating reviews.
 
 GitHub Profile: *Profile link*
-Gumroad Store: *Store link*
+Website: [Visit Our Website](https://www.theseusworkshop.com/)
 
 ---
 
